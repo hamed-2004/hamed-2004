@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Hamed%20Behroozi&fontSize=56&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=60&animation=fadeIn&color=0:020617,35:0F172A,70:0F4C75,100:00B4D8&fontColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+LLMs+%7C+Transformers+%7C+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+LLMs+%7C+Transformers+%7C+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
@@ -182,9 +182,9 @@ Currently expanding my knowledge toward **Large Language Models, Transformers, a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamed-2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamed-2004&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamed-2004&theme=tokyonight"/>
 
 <br><br>
 
@@ -198,7 +198,7 @@ Currently expanding my knowledge toward **Large Language Models, Transformers, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamed-2004&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamed-2004&theme=tokyonight" width="100%"/>
 
 </div>
 
