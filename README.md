@@ -1,448 +1,184 @@
-<!-- ============================================================
-     HAMED BEHROOZI | GITHUB PROFILE README
-     ============================================================ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hamed%20Behroozi&fontSize=52&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58&animation=fadeIn&color=0:020617,40:0F172A,70:0F4C75,100:00B4D8&fontColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hamed%20Behroozi&fontSize=52&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=60&animation=fadeIn&color=0:020617,35:0F172A,70:0F4C75,100:00B4D8&fontColor=FFFFFF"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+LLMs+%7C+Transformers+%7C+Generative+AI;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<div align="center">
-
-### 👋 Welcome to my AI & Machine Learning journey
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+with+Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+LLMs+%7C+Generative+AI+%7C+Modern+AI;From+Data+to+Intelligence+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/hamed-2004">
-  <img src="https://img.shields.io/badge/GitHub-hamed--2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-hamed--2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=hamed-2004&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/hamed-2004?label=FOLLOWERS&style=for-the-badge&color=0EA5E9"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-```python
-class AIEngineer:
+I’m an **AI & Machine Learning enthusiast** focused on turning ideas, data, and models into practical intelligent systems.
 
-    def __init__(self):
-
-        self.name = "Hamed Behroozi"
-
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Large Language Models"
-        ]
-
-        self.current_exploration = [
-            "Generative AI",
-            "LLMs",
-            "Modern Neural Architectures"
-        ]
-
-        self.goal = """
-        Build intelligent systems that
-        transform complex data into
-        meaningful solutions.
-        """
-
-    def mission(self):
-        return "Learn • Build • Experiment • Improve 🚀"
-
-
-hamed = AIEngineer()
-
-print(hamed.mission())
-```
-
-I am passionate about **Artificial Intelligence and intelligent systems**, with a strong interest in transforming theoretical concepts into practical projects.
-
-My journey currently spans multiple areas of modern AI, including:
-
-> 🤖 **Artificial Intelligence**
-> 🧠 **Machine Learning**
-> ⚡ **Deep Learning**
-> 👁️ **Computer Vision**
-> 🗣️ **Large Language Models (LLMs)**
-> ✨ **Generative AI**
-> 🧩 **Neural Networks & Intelligent Systems**
-
-I enjoy experimenting with models, comparing architectures, analyzing results, and continuously expanding my understanding of modern AI technologies.
-
----
-
-# 🚀 Featured Projects
+My main areas of interest:
 
 <div align="center">
 
-### A selection of my Artificial Intelligence & Machine Learning projects
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning`  
+`Computer Vision` • `Neural Networks` • `Large Language Models`  
+`Transformers` • `Generative AI` • `Intelligent Systems`
 
 </div>
 
-<table> <tr>
+> **Building models is only part of the journey — understanding the problem is where intelligence begins.**
 
-<td width="50%" valign="top">
+---
 
-### 🚗 Distracted Driver Detection
+## 🚀 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/hamed-2004/MachineLearning-2026-Project-DistractedDriver">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%9A%97%20Distracted%20Driver%20Detection-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-Deep learning-based driver behavior recognition using transfer learning and image classification.
-
-**Key Technologies**
-
-`MobileNetV2` · `ResNet50` · `TensorFlow` · `Computer Vision`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚦 Traffic Sign Recognition
 
 <a href="https://github.com/hamed-2004/AI-2026-Project-GTSRB">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%9A%A6%20Traffic%20Sign%20Recognition-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-Traffic sign classification project with neural network architecture comparison.
-
-**Key Technologies**
-
-`CNN` · `MLP` · `TensorFlow` · `Image Classification`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏥 Insurance Prediction
 
 <a href="https://github.com/hamed-2004/AI-2026-Project-Insurance">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Insurance%20Prediction-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-An intelligent prediction project exploring machine learning and fuzzy intelligence.
-
-**Key Technologies**
-
-`Machine Learning` · `Python` · `ANFIS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence Coursework
 
 <a href="https://github.com/hamed-2004/KNTU-AI-HWs">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Artificial%20Intelligence%20HWs-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-Artificial intelligence algorithms, search strategies, and intelligent problem-solving.
-
-**Key Technologies**
-
-`Python` · `AI Algorithms` · `Search`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Machine Learning Coursework
 
 <a href="https://github.com/hamed-2004/KNTU-ML-HWs">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Machine%20Learning%20HWs-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A collection of machine learning models, experiments, and practical implementations.
+</div>
 
-**Key Technologies**
+<br/>
 
-`Python` · `Machine Learning` · `Deep Learning`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔮 What's Next?
-
-Currently expanding into the next generation of AI systems.
-
-**Exploring**
-
-`LLMs` · `Generative AI` · `Transformers` · `AI Systems`
-
-🚀 **More projects coming soon...**
-
-</td>
-
-</tr> </table>
+| Project | Focus | Technologies |
+|:--|:--|:--|
+| 🚗 [**Distracted Driver Detection**](https://github.com/hamed-2004/MachineLearning-2026-Project-DistractedDriver) | Driver behavior recognition with deep learning | `MobileNetV2` `ResNet50` `TensorFlow` |
+| 🚦 [**GTSRB Traffic Sign Recognition**](https://github.com/hamed-2004/AI-2026-Project-GTSRB) | Traffic sign classification & model comparison | `CNN` `MLP` `TensorFlow` |
+| 🏥 [**Insurance Prediction**](https://github.com/hamed-2004/AI-2026-Project-Insurance) | Intelligent prediction & fuzzy systems | `ML` `Python` `ANFIS` |
+| 🤖 [**AI Coursework**](https://github.com/hamed-2004/KNTU-AI-HWs) | AI algorithms & intelligent problem solving | `Python` `AI Algorithms` |
+| 🧠 [**ML Coursework**](https://github.com/hamed-2004/KNTU-ML-HWs) | Machine learning experiments & implementations | `Python` `ML` `DL` |
 
 ---
 
-# 🧬 AI Universe
+## ⚙️ Tech Stack
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Artificial Intelligence))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Neural Networks
-    Deep Learning
-      CNN
-      RNN
-      LSTM
-      Transfer Learning
-    Computer Vision
-      Image Classification
-      Visual Recognition
-    Generative AI
-      Large Language Models
-      Transformers
-      Modern AI
-```
+<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode,tensorflow,pytorch,sklearn&perline=8"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-020617?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CNN-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0F172A?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Keras-020617?style=for-the-badge&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </div>
 
 ---
 
-# ⚙️ Technology Stack
+## 🧠 Exploring Modern AI
 
 <div align="center">
 
-### 💻 Programming & Development
+### `LLMs` • `Transformers` • `Generative AI` • `NLP` • `AI Agents`
 
-<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode&perline=10"/>
+</div>
 
-<br/><br/>
+Currently expanding from classical ML and deep learning toward **Large Language Models and modern generative AI systems**, with a focus on understanding the foundations and experimenting with practical applications.
 
-### 🤖 AI & Machine Learning
+---
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-020617?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Deep_Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Computer_Vision-020617?style=for-the-badge&logo=opencv&logoColor=white"/>
+## 📊 GitHub Analytics
 
-<br/><br/>
+<div align="center">
 
-### 🧠 Neural Networks
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=hamed-2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://img.shields.io/badge/CNN-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/RNN-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/LSTM-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer_Learning-0F172A?style=for-the-badge"/>
-
-<br/><br/>
-
-### 🔬 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Keras-020617?style=for-the-badge&logo=keras&logoColor=D00000"/> <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://streak-stats.demolab.com/?user=hamed-2004&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🗣️ Exploring Large Language Models
+## 📈 Contribution Activity
 
 <div align="center">
 
-### My journey is expanding beyond traditional Machine Learning
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamed-2004&theme=tokyo-night&hide_border=true&area=true&custom_title=Hamed%27s%20Contribution%20Graph" width="100%"/>
 
 </div>
 
-I am currently exploring the rapidly evolving world of **Large Language Models and Generative AI**.
+---
 
-My areas of interest include:
+## 🎯 Current Focus
 
 <div align="center">
 
-|      🧠 LLMs     | 🔄 Transformers |        💬 NLP        |
-| :--------------: | :-------------: | :------------------: |
-| 🤖 Generative AI |   🧩 AI Agents  | 📚 Modern AI Systems |
+| 🤖 AI | 🧠 ML | ⚡ Deep Learning | 👁️ Vision | 🗣️ LLMs | ✨ GenAI |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
 <br/>
 
-> **Current mindset:** Learn the foundations → Understand the models → Build practical AI systems.
+**Learn → Experiment → Build → Analyze → Improve**
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=hamed-2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-2004&theme=tokyonight&hide_border=true"/>
-
-</div>
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamed-2004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
----
-
-# 🎯 My AI Roadmap
-
-<div align="center">
-
-```text
-FOUNDATIONS
-    │
-    ├── Python
-    ├── Artificial Intelligence
-    └── Machine Learning
-            │
-            ▼
-DEEP LEARNING
-    │
-    ├── Neural Networks
-    ├── CNN
-    ├── RNN / LSTM
-    └── Transfer Learning
-            │
-            ▼
-COMPUTER VISION
-    │
-    ├── Image Classification
-    ├── Recognition Systems
-    └── Deep Vision Models
-            │
-            ▼
-GENERATIVE AI
-    │
-    ├── Transformers
-    ├── Large Language Models
-    └── Modern AI Systems
-            │
-            ▼
-THE FUTURE 🚀
-```
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 🧠 Machine Learning | ⚡ Deep Learning |
-| :------------------------: | :-----------------: | :-------------: |
-|     👁️ Computer Vision    |       🗣️ LLMs      | ✨ Generative AI |
-
-</div>
-
-<br/>
-
-```text
-🧠 Learning        → Understanding modern AI systems
-🔬 Experimenting   → Testing different models and architectures
-🚀 Building        → Developing practical AI projects
-📈 Improving       → Continuously expanding my technical skills
-```
-
----
-
-# 🏆 GitHub Highlights
-
-<div align="center">
-
-<a href="https://github.com/hamed-2004">
 <img src="https://github-profile-trophy.vercel.app/?username=hamed-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hamed-2004/hamed-2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> ⚠️ **To activate the Snake animation**, you need to create a small GitHub Actions workflow. The README is ready for it, but the animation itself requires GitHub Actions to generate the SVG.
-
----
-
-# 💭 AI Philosophy
-
-<div align="center">
-
-### *"Artificial Intelligence is not only about building powerful models.*
-
-### *It's about understanding problems and designing intelligent solutions."*
-
-<br/>
-
-**Learn. Build. Experiment. Improve. Repeat.**
-
-</div>
-
----
-
-# 🌐 Explore My Work
+## 🌐 Explore My Work
 
 <div align="center">
 
 <a href="https://github.com/hamed-2004?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-⭐ **If you find something interesting, feel free to explore the repository!**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=hamed-2004&label=Thanks+for+visiting!&color=0891B2&style=flat-square"/>
+### 🚀 Learn. Build. Experiment. Improve.
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:0F4C75,100:00B4D8&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,35:0F172A,70:0F4C75,100:00B4D8"/>
 
 </div>
