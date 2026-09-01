@@ -317,7 +317,6 @@ My areas of interest include:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamed-2004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
 ---
 
 # 🎯 My AI Roadmap
