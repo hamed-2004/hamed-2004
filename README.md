@@ -310,9 +310,6 @@ My areas of interest include:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-2004&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
