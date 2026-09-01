@@ -18,29 +18,6 @@
 
 ---
 
-## 🧠 About Me
-
-I’m an **AI & Machine Learning enthusiast** interested in building practical intelligent systems and understanding how modern models work under the hood.
-
-### Core Interests
-
-<div align="center">
-
-🤖 **Artificial Intelligence**  
-🧠 **Machine Learning**  
-⚡ **Deep Learning**  
-👁️ **Computer Vision**  
-🗣️ **Large Language Models (LLMs)**  
-✨ **Generative AI**  
-🔄 **Transformers & Neural Networks**
-
-</div>
-
-My projects combine model development, experimentation, evaluation, and practical problem-solving — from classical machine learning and fuzzy systems to deep learning and computer vision.
-
-> **Understand the problem → build the model → analyze the results → improve the system.**
-
----
 # 🧠 About Me
 
 ```python
@@ -73,7 +50,8 @@ class HamedBehroozi:
 hamed = HamedBehroozi()
 
 print("Learn • Build • Experiment • Improve 🚀")
----
+
+
 # 🚀 Featured Projects
 
 <table>
