@@ -50,7 +50,8 @@ class HamedBehroozi:
 hamed = HamedBehroozi()
 
 print("Learn • Build • Experiment • Improve 🚀")
-
+```
+---
 
 # 🚀 Featured Projects
 
