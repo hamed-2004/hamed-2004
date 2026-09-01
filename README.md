@@ -41,7 +41,39 @@ My projects combine model development, experimentation, evaluation, and practica
 > **Understand the problem → build the model → analyze the results → improve the system.**
 
 ---
+# 🧠 About Me
 
+```python
+class HamedBehroozi:
+
+    def __init__(self):
+
+        self.name = "Hamed Behroozi"
+
+        self.main_fields = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision"
+        ]
+
+        self.current_exploration = [
+            "Large Language Models",
+            "Transformers",
+            "Generative AI",
+            "Modern AI Systems"
+        ]
+
+        self.mission = (
+            "Transforming ideas and data "
+            "into intelligent solutions."
+        )
+
+
+hamed = HamedBehroozi()
+
+print("Learn • Build • Experiment • Improve 🚀")
+---
 # 🚀 Featured Projects
 
 <table>
