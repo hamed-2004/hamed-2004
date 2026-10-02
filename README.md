@@ -49,7 +49,7 @@ class HamedBehroozi:
 
 hamed = HamedBehroozi()
 
-print("Learn • Build • Experiment • Improve 🚀")
+print("Learn • Build • Experiment • Improve ")
 ```
 ---
 
