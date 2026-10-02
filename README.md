@@ -18,7 +18,7 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
 ```python
 class HamedBehroozi:
@@ -53,7 +53,7 @@ print("Learn • Build • Experiment • Improve 🚀")
 ```
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
@@ -141,7 +141,7 @@ A collection of academic work covering **Artificial Intelligence, Machine Learni
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -173,7 +173,7 @@ A collection of academic work covering **Artificial Intelligence, Machine Learni
 
 ---
 
-# 🧠 Exploring Modern AI
+#  Exploring Modern AI
 
 <div align="center">
 
@@ -215,7 +215,7 @@ Currently expanding my knowledge toward **Large Language Models, Transformers, a
 
 ---
 
-# 🎯 Current Direction
+#  Current Direction
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Currently expanding my knowledge toward **Large Language Models, Transformers, a
 
 ---
 
-# 💡 Philosophy
+#  Philosophy
 
 <div align="center">
 
