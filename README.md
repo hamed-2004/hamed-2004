@@ -147,11 +147,11 @@ A collection of academic work covering **Artificial Intelligence, Machine Learni
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=5"/>
 
 <br><br>
 
-### 🤖 AI / ML / Deep Learning
+###  AI / ML / Deep Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=8"/>
 
@@ -227,7 +227,7 @@ Currently expanding my knowledge toward **Large Language Models, Transformers, a
 ↓  
 **Transformers & LLMs**  
 ↓  
-**Generative AI & Intelligent Systems** 🚀
+**Generative AI & Intelligent Systems** 
 
 </div>
 
