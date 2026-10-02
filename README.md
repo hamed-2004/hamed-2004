@@ -25,8 +25,9 @@ class HamedBehroozi:
 
     def __init__(self):
 
-        self.name = "Hamed Behroozi"
-
+        self.name = "Hamed Behroozi Moghaddam"
+        self.email = "hamedbehroozimoghaddam@gmail.com"
+        
         self.main_fields = [
             "Artificial Intelligence",
             "Machine Learning",
